@@ -1,0 +1,9 @@
+.friends-container {
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    background: #fafafa;
+    border-radius: 6px;
+    padding: 32px 0;
+    margin: 1rem auto;
+}
