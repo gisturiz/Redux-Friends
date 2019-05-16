@@ -17,8 +17,8 @@ class FriendsList extends Component {
                  {this.props.friends.map(friend => (
                      <div className="friends-container">
                     <h1>{friend.name}</h1>
-                    <p>{friend.age}</p>
-                    <p>{friend.email}</p>
+                    <p>Age: {friend.age}</p>
+                    <p>Email: {friend.email}</p>
                     </div>
                     ))}
             </div>
